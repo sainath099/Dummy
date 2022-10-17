@@ -1,0 +1,16 @@
+admin:1
+Priyanka Kumari:user2:production:testing
+RAJU ANUSURI:user3:testing
+Dheeraj Kumar Mutukula:user4:production:marketing
+SAI KUMAR MATTA:user5:marketing
+Ashutosh Singh Tomar:user6:testing:production:durban:first
+Gowtham Asaithambi:user7:production
+ADARSH SHAH:user8:marketing:testing
+Varun J:user9:marketing:testing:production
+Hariharan Balasubramanian:user10:marketing
+VivekrajTamilmaran:user11:testing
+Shanmuganathan V:user12:testing
+Krishna Kumar Kumar:user13:testing:production
+satheesh s:user14:production
+Gokulakannan:user15:production:marketing:testing:tyson:public group
+test1:pass1
